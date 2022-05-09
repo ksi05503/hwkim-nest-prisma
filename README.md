@@ -1,37 +1,26 @@
-# Building a REST API with NestJS and prisma
+# NestJS with Prisma Workshop project
 
-This repository contains the starter project for the **Building a REST API with NestJS and Prisma** workshop by [Marc Stammerjohann](https://twitter.com/mrcjln).
-## Getting Started
+NestJs API Server using Prisma ORM by HWKIM
+![img.png](img.png)
 
-1. Clone this repository
+## goal
+- Factoring Rest API with Prisma on NestJS server
+- Error Handling
+- Pagination
+- Authentication
+- API Documentation
 
-You can clone this repository with the following command:
 
-```bash
-# SSH
-git clone git@github.com:marcjulian/nestjs-prisma-workshop.git
 
-# HTTPS
-git clone https://github.com/marcjulian/nestjs-prisma-workshop.git
+## env
+- NestJS
+- Prisma
+- Swagger API
+- SQLITE
 
-# GitHub CLI
-gh repo clone marcjulian/nestjs-prisma-workshop
-```
 
-2. Install dependencies
 
-```bash
-cd nestjs-prisma-workshop
-npm install
-```
-
-3. Install NestJS CLI if you haven't already
-
-```bash
-npm i -g @nestjs/cli
-```
-
-## Workshop
-
-Use this repo as the starting point and follow the lessons for the [workshop](https://pris.ly/day2021-nestjs).
-The recorded version is available on Youtube [Building a REST API with NestJS and Prisma](https://www.youtube.com/watch?v=mmbd5hcQUaY).
+## reference
+2021 Prisma Day WorkShop / Marc Stammerjohann's Practice
+- [notion](https://pris.ly/day2021-nestjs)
+- [workshop](https://www.youtube.com/watch?v=mmbd5hcQUaY)
