@@ -9,6 +9,7 @@ NestJs API Server using Prisma ORM by HWKIM
 - Factoring Rest API with Prisma on NestJS server
 - Error Handling
 - Pagination
+- Caching
 - Authentication
 - API Documentation
 
@@ -17,6 +18,7 @@ NestJs API Server using Prisma ORM by HWKIM
 ## env
 - NestJS
 - Prisma
+- Redis
 - Swagger API
 - SQLITE
 
