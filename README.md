@@ -1,4 +1,4 @@
-# NestJS with Prisma Workshop project
+# NestJS with Prisma Workshop project by HWKIM
 
 NestJs API Server using Prisma ORM by HWKIM
 
