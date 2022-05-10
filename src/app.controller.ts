@@ -14,7 +14,7 @@ export class AppController {
     return this.appService.getHello();
   }
 
-  @Get('products')
+  @Get('test')
   findPublishedProducts() {
     return this.prismaService.product.findMany({ where: { published: true } });
   }
